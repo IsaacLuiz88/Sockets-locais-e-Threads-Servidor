@@ -12,9 +12,9 @@ Este repositório contém um código em Python que implementa um servidor local 
 2. Clone o repositório:
    ```bash
   git clone <URL_DO_REPOSITORIO>
-3.
-3. Navegue até o diretório do projeto:
+  
+3.Navegue até o diretório do projeto:
   cd <NOME_DIRETORIO>
 
-4. Execute o servidor:
+4.Execute o servidor:
    python servidor.py
