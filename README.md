@@ -7,7 +7,6 @@ Este repositório contém um código em Python que implementa um servidor local 
 - Exibir no console as mensagens enviadas pelos clientes.
 
 ## Como Executar
-
 1. Certifique-se de ter o Python 3.x instalado.
 2. Clone o repositório:
   git clone <URL_DO_REPOSITORIO>
