@@ -10,7 +10,7 @@ Este repositório contém um código em Python que implementa um servidor local 
 
 1. Certifique-se de ter o Python 3.x instalado.
 2. Clone o repositório:
-  git clone <URL_DO_REPOSITORIO> "\n"
+  git clone <URL_DO_REPOSITORIO>
 3.Navegue até o diretório do projeto:
   cd <NOME_DIRETORIO>
 4.Execute o servidor:
